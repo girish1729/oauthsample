@@ -1,0 +1,31 @@
+{
+  "name": "simpleoauthapp",
+  "version": "1.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.8.2",
+    "static-favicon": "~1.0.0",
+    "morgan": "~1.0.1",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.2",
+    "ejs": "*",
+    "serve-favicon": "~2.0.1",
+    "method-override": "~2.1.2",
+    "errorhandler": "~1.1.1",
+    "express-session": "~1.7.4",
+    "multer": "~0.1.3",
+    "passport": "*",
+    "passport-facebook": "*",
+    "passport-google": "*"
+  },
+  "description": "Oauth2 example",
+  "main": "app.js",
+  "keywords": [
+    "nothing"
+  ],
+  "author": "girish",
+  "license": "ISC"
+}
