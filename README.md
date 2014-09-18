@@ -1,17 +1,16 @@
 # OAuth2 for facebook and Gmail
 
-We will be using Passport to authenticate users locally, with Facebook, and Gmail.
+We will be using Passport to authenticate users with Facebook, and Gmail.
 
 ## Instructions
 
 If you would like to download the code and try it for yourself:
 
-1. Clone the repo: `git clone https://github.com/girish1729/oauthsample
+1. Clone the repo: `git clone https://github.com/girish1729/oauthsample`
 2. Install packages: `npm install`
-3. Change out the database configuration in config/database.js
-4. Change out auth credentials in auth.js
-5. Launch: `npm start`
-6. Visit in your browser at: `http://localhost:3000`
+3. Change out auth credentials in auth.js
+4. Launch: `npm start`
+5. Visit in your browser at: `http://localhost:3000`
 
 ## Other details
 
